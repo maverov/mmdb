@@ -1,3 +1,5 @@
+How the App looks:
+
 ![Image of the Live Project](https://i.ibb.co/dDYNGF7/screencapture-localhost-3000-2019-11-27-19-46-58.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
